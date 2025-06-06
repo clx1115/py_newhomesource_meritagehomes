@@ -1,0 +1,495 @@
+{
+  "timestamp": "2025-06-06T15:49:45.433958",
+  "name": "River Oaks",
+  "status": null,
+  "url": "https://www.meritagehomes.com/state/ms/coastal-ms/river-oaks",
+  "price_from": "From $254,990",
+  "address": "22 Shorecrest Rd\n                            Biloxi, MS 39532",
+  "phone": null,
+  "description": "Visit Meritage Homes' Biloxi, MS new home community River Oaks in Coastal MS, MS. Live in an energy-efficient home in D'Iberville High School School District. Move-in ready homes available.",
+  "images": [
+    "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6f96d81dd90c4158860a88403033a6ab?v=962cb518"
+  ],
+  "location": {
+    "latitude": "30.448363",
+    "longitude": "-89.0011978",
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "From $254,990",
+    "sqft_range": "1,380 - 1,893",
+    "bed_range": "3",
+    "bath_range": "2  - 3",
+    "stories_range": "1  - 2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Opal",
+      "url": "https://www.meritagehomes.com/state/ms/coastal-ms/river-oaks/opal-c143",
+      "details": {
+        "price": "From $254,990",
+        "beds": "3bd",
+        "baths": "2ba",
+        "half_baths": null,
+        "sqft": "1380 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/dda2cd0de1db4e55af8cb0b44bfda5ad?v=5ef05ac7"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/068f03395d374a5894c793b3f38751fe?v=d232acc7"
+        }
+      ],
+      "includedFeatures": []
+    },
+    {
+      "name": "Kai",
+      "url": "https://www.meritagehomes.com/state/ms/coastal-ms/river-oaks/kai-c193",
+      "details": {
+        "price": "From $302,990",
+        "beds": "3bd",
+        "baths": "3ba",
+        "half_baths": null,
+        "sqft": "1893 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/f003b1a1f859445eb0459d338d7d5b32?v=f2197a23"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/ff98da96a649493b80912143afcf5a34?v=22ec6f8f"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/ff98da96a649493b80912143afcf5a34?v=22ec6f8f"
+        }
+      ],
+      "includedFeatures": []
+    }
+  ],
+  "homesites": [
+    {
+      "address": "9710 West Oaklawn rd Biloxi, MS 39532",
+      "name": "9710 West Oaklawn rd Biloxi, MS",
+      "plan": "Opal",
+      "id": "1",
+      "price": "$264,490",
+      "beds": "3bd",
+      "baths": "2ba",
+      "sqft": "1,380 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b12ed2e091db41d093f4140f12401099?v=15a4b8b3",
+      "url": "https://www.meritagehomes.com/state/ms/coastal-ms/river-oaks/opal-c143/9710-west-oaklawn-rd",
+      "latitude": "30.446542",
+      "longitude": "89.000515",
+      "overview": "Enhance everyday living with the Opal's open-concept layout. Unlock your inner chef in the spacious kitchen, then unwind outdoors in the covered rear patio. Retreat to the luxurious primary suite, featuring dual vanities and a sizeable walk-in closet.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/cdd9902066ff40da9590b6c58a9efa55?v=49651170",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/d90847bda0a547c89c65229bbf00c4df?v=187bc926",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b6f4ed44544f4c4eacf493f7aec446eb?v=5868dd1b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/72fecd0b17fe4e8aaa89f85aa61a7169?v=4d485369",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7ca0928b8c2143a0be0a1206c9eb2009?v=f06234c1",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/82e48289fa2a434ca3962384d0d8ddb3?v=e6b249ba",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6bedfcfe99a44707b18c80e8a9f3082d?v=d49d0114",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/8cb2c3943f4145bbbcf3cdafaab71def?v=c0e05425",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/84a9b679006f4bb5b9b78924eb329e6a?v=15dacd52",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3b16f2b72b8644f1bcf5fe6eb7ec9124?v=9e74b195",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b3c4f21564d7421bad53df945c666f9f?v=1060d40c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/db1e288533ea4b5ba617795f93ef279c?v=8f2d5510",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c8633f64ee21489394f859c8dc84ef4f?v=4057f95c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b2967c0c7d81446b9fe1f1f4367d44bc?v=135bf00b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6f96d81dd90c4158860a88403033a6ab?v=962cb518",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1246ae6ca65341dd85ff1990edff347f?v=ecb273e3",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b12ed2e091db41d093f4140f12401099?v=ac4b74f2",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2cce78d140ab4bc0a483f359247553b0?v=8b5cc6de",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/07ba8958f3a54307bced8270cecc2002?v=80ca653f",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5e9f73e062ba4ae9a514d0304b1d62bb?v=bf6d16d2"
+      ]
+    },
+    {
+      "address": "9718 West Oaklawn rd Biloxi, MS 39532",
+      "name": "9718 West Oaklawn rd Biloxi, MS",
+      "plan": "Opal",
+      "id": "2",
+      "price": "$254,990",
+      "beds": "3bd",
+      "baths": "2ba",
+      "sqft": "1,380 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2cce78d140ab4bc0a483f359247553b0?v=8f9c7e03",
+      "url": "https://www.meritagehomes.com/state/ms/coastal-ms/river-oaks/opal-c143/9718-west-oaklawn-rd",
+      "latitude": "30.446564",
+      "longitude": "-89.000774",
+      "overview": "Enhance everyday living with the Opal's open-concept layout. Unlock your inner chef in the spacious kitchen, then unwind outdoors in the covered rear patio. Retreat to the luxurious primary suite, featuring dual vanities and a sizeable walk-in closet.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/cdd9902066ff40da9590b6c58a9efa55?v=49651170",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/d90847bda0a547c89c65229bbf00c4df?v=187bc926",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b6f4ed44544f4c4eacf493f7aec446eb?v=5868dd1b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/72fecd0b17fe4e8aaa89f85aa61a7169?v=4d485369",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7ca0928b8c2143a0be0a1206c9eb2009?v=f06234c1",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/82e48289fa2a434ca3962384d0d8ddb3?v=e6b249ba",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6bedfcfe99a44707b18c80e8a9f3082d?v=d49d0114",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/8cb2c3943f4145bbbcf3cdafaab71def?v=c0e05425",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/84a9b679006f4bb5b9b78924eb329e6a?v=15dacd52",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3b16f2b72b8644f1bcf5fe6eb7ec9124?v=9e74b195",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b3c4f21564d7421bad53df945c666f9f?v=1060d40c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/db1e288533ea4b5ba617795f93ef279c?v=8f2d5510",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c8633f64ee21489394f859c8dc84ef4f?v=4057f95c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b2967c0c7d81446b9fe1f1f4367d44bc?v=135bf00b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6f96d81dd90c4158860a88403033a6ab?v=962cb518",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1246ae6ca65341dd85ff1990edff347f?v=ecb273e3",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b12ed2e091db41d093f4140f12401099?v=ac4b74f2",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2cce78d140ab4bc0a483f359247553b0?v=8b5cc6de",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/07ba8958f3a54307bced8270cecc2002?v=80ca653f",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5e9f73e062ba4ae9a514d0304b1d62bb?v=bf6d16d2"
+      ]
+    },
+    {
+      "address": "9642 West Oaklawn rd Biloxi, MS 39532",
+      "name": "9642 West Oaklawn rd Biloxi, MS",
+      "plan": "Opal",
+      "id": "3",
+      "price": "$263,740",
+      "beds": "3bd",
+      "baths": "2ba",
+      "sqft": "1,380 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2cce78d140ab4bc0a483f359247553b0?v=f38c637a",
+      "url": "https://www.meritagehomes.com/state/ms/coastal-ms/river-oaks/opal-c143/9642-west-oaklawn-rd",
+      "latitude": "30.447034",
+      "longitude": "-88.998538",
+      "overview": "Enhance everyday living with the Opal's open-concept layout. Unlock your inner chef in the spacious kitchen, then unwind outdoors in the covered rear patio. Retreat to the luxurious primary suite, featuring dual vanities and a sizeable walk-in closet.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/cdd9902066ff40da9590b6c58a9efa55?v=49651170",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/d90847bda0a547c89c65229bbf00c4df?v=187bc926",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b6f4ed44544f4c4eacf493f7aec446eb?v=5868dd1b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/72fecd0b17fe4e8aaa89f85aa61a7169?v=4d485369",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7ca0928b8c2143a0be0a1206c9eb2009?v=f06234c1",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/82e48289fa2a434ca3962384d0d8ddb3?v=e6b249ba",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6bedfcfe99a44707b18c80e8a9f3082d?v=d49d0114",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/8cb2c3943f4145bbbcf3cdafaab71def?v=c0e05425",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/84a9b679006f4bb5b9b78924eb329e6a?v=15dacd52",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3b16f2b72b8644f1bcf5fe6eb7ec9124?v=9e74b195",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b3c4f21564d7421bad53df945c666f9f?v=1060d40c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/db1e288533ea4b5ba617795f93ef279c?v=8f2d5510",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c8633f64ee21489394f859c8dc84ef4f?v=4057f95c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b2967c0c7d81446b9fe1f1f4367d44bc?v=135bf00b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6f96d81dd90c4158860a88403033a6ab?v=962cb518",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1246ae6ca65341dd85ff1990edff347f?v=ecb273e3",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b12ed2e091db41d093f4140f12401099?v=ac4b74f2",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2cce78d140ab4bc0a483f359247553b0?v=8b5cc6de",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/07ba8958f3a54307bced8270cecc2002?v=80ca653f",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5e9f73e062ba4ae9a514d0304b1d62bb?v=bf6d16d2"
+      ]
+    },
+    {
+      "address": "9684 West Oaklawn rd Biloxi, MS 39532",
+      "name": "9684 West Oaklawn rd Biloxi, MS",
+      "plan": "Kai",
+      "id": "4",
+      "price": "$302,990",
+      "beds": "3bd",
+      "baths": "3ba",
+      "sqft": "1,893 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/408f70adcdee4aff821d7b35a0cd2677?v=8690da4f",
+      "url": "https://www.meritagehomes.com/state/ms/coastal-ms/river-oaks/kai-c193/9684-west-oaklawn-rd",
+      "latitude": "30.447044",
+      "longitude": "-89.000294",
+      "overview": "Gather in the open-concept great room or the covered rear patio. The main-floor primary suite features an ensuite bath and walk-in closet with laundry access. Upstairs, the spacious bedroom and loft provide a private retreat and flexible living space.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6ac2ce3735cd4ecdadf061c89b66fcd4?v=38bf055e",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6b29879287f64a0c86bd82e55b7dbff7?v=ed8ec6c5",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2b82b24a311049509f877ec2c615b778?v=ec371ace",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/85f8a11a2861441baafc2c09c96b7570?v=138e35a5",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/bdcf19ed686142b8940ab54e005fbe6e?v=33952cbb",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/fdc18f90aa2b497fbc6e9fc62ea65915?v=4aec7a43",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1dc2f483be31477f840ddc88957252d5?v=e1573d83",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/33c6c265889a4623b9f42f0166bf3c57?v=c70bdfe2",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3d96413a13ee4608ab85ba9d2084bd62?v=f8dd006b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e65ed3d19729404689db1cf03561fd6e?v=bc5c2585",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1c1ed50efbcf42ecb53c2d31a78cc482?v=f6006ec1",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/01f1633fa8c24b36b59a9255343d60f4?v=98918e0e",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7fd33767049344ed83523911b14dd53a?v=c6d816a6",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7153a5b1798440cfb3691ec51f0bc0c0?v=523700cc",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/75307e6445f3454780d7b0757c749ff6?v=13d40393",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9aa15727dcb64319b3925ee430264b50?v=8d129def",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/ccd2462c89a04cbc862fa7dea81bad59?v=f8e50d33",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/408f70adcdee4aff821d7b35a0cd2677?v=db588cf2",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c018fb432e554f77947d0fb5a6adf737?v=0dbee45b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/daed8a62ab524946a8d70bb43f748ee3?v=d1841848"
+      ]
+    },
+    {
+      "address": "9634 West Oaklawn rd Biloxi, MS 39532",
+      "name": "9634 West Oaklawn rd Biloxi, MS",
+      "plan": "Kai",
+      "id": "5",
+      "price": "$304,740",
+      "beds": "3bd",
+      "baths": "3ba",
+      "sqft": "1,893 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c018fb432e554f77947d0fb5a6adf737?v=f9a2ee53",
+      "url": "https://www.meritagehomes.com/state/ms/coastal-ms/river-oaks/kai-c193/9634-west-oaklawn-rd",
+      "latitude": "30.44701",
+      "longitude": "-88.998317",
+      "overview": "Gather in the open-concept great room or the covered rear patio. The main-floor primary suite features an ensuite bath and walk-in closet with laundry access. Upstairs, the spacious bedroom and loft provide a private retreat and flexible living space.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6ac2ce3735cd4ecdadf061c89b66fcd4?v=38bf055e",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6b29879287f64a0c86bd82e55b7dbff7?v=ed8ec6c5",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2b82b24a311049509f877ec2c615b778?v=ec371ace",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/85f8a11a2861441baafc2c09c96b7570?v=138e35a5",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/bdcf19ed686142b8940ab54e005fbe6e?v=33952cbb",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/fdc18f90aa2b497fbc6e9fc62ea65915?v=4aec7a43",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1dc2f483be31477f840ddc88957252d5?v=e1573d83",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/33c6c265889a4623b9f42f0166bf3c57?v=c70bdfe2",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3d96413a13ee4608ab85ba9d2084bd62?v=f8dd006b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e65ed3d19729404689db1cf03561fd6e?v=bc5c2585",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1c1ed50efbcf42ecb53c2d31a78cc482?v=f6006ec1",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/01f1633fa8c24b36b59a9255343d60f4?v=98918e0e",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7fd33767049344ed83523911b14dd53a?v=c6d816a6",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7153a5b1798440cfb3691ec51f0bc0c0?v=523700cc",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/75307e6445f3454780d7b0757c749ff6?v=13d40393",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9aa15727dcb64319b3925ee430264b50?v=8d129def",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/ccd2462c89a04cbc862fa7dea81bad59?v=f8e50d33",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/408f70adcdee4aff821d7b35a0cd2677?v=db588cf2",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c018fb432e554f77947d0fb5a6adf737?v=0dbee45b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/daed8a62ab524946a8d70bb43f748ee3?v=d1841848"
+      ]
+    },
+    {
+      "address": "9700 West Oaklawn rd Biloxi, MS 39532",
+      "name": "9700 West Oaklawn rd Biloxi, MS",
+      "plan": "Kai",
+      "id": "6",
+      "price": "$309,990",
+      "beds": "3bd",
+      "baths": "3ba",
+      "sqft": "1,893 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/daed8a62ab524946a8d70bb43f748ee3?v=00fe06fd",
+      "url": "https://www.meritagehomes.com/state/ms/coastal-ms/river-oaks/kai-c193/9700-west-oaklawn-rd",
+      "latitude": "30.447057",
+      "longitude": "89.000574",
+      "overview": "Gather in the open-concept great room or the covered rear patio. The main-floor primary suite features an ensuite bath and walk-in closet with laundry access. Upstairs, the spacious bedroom and loft provide a private retreat and flexible living space.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6ac2ce3735cd4ecdadf061c89b66fcd4?v=38bf055e",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6b29879287f64a0c86bd82e55b7dbff7?v=ed8ec6c5",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2b82b24a311049509f877ec2c615b778?v=ec371ace",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/85f8a11a2861441baafc2c09c96b7570?v=138e35a5",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/bdcf19ed686142b8940ab54e005fbe6e?v=33952cbb",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/fdc18f90aa2b497fbc6e9fc62ea65915?v=4aec7a43",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1dc2f483be31477f840ddc88957252d5?v=e1573d83",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/33c6c265889a4623b9f42f0166bf3c57?v=c70bdfe2",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3d96413a13ee4608ab85ba9d2084bd62?v=f8dd006b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e65ed3d19729404689db1cf03561fd6e?v=bc5c2585",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1c1ed50efbcf42ecb53c2d31a78cc482?v=f6006ec1",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/01f1633fa8c24b36b59a9255343d60f4?v=98918e0e",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7fd33767049344ed83523911b14dd53a?v=c6d816a6",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7153a5b1798440cfb3691ec51f0bc0c0?v=523700cc",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/75307e6445f3454780d7b0757c749ff6?v=13d40393",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9aa15727dcb64319b3925ee430264b50?v=8d129def",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/ccd2462c89a04cbc862fa7dea81bad59?v=f8e50d33",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/408f70adcdee4aff821d7b35a0cd2677?v=db588cf2",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c018fb432e554f77947d0fb5a6adf737?v=0dbee45b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/daed8a62ab524946a8d70bb43f748ee3?v=d1841848"
+      ]
+    },
+    {
+      "address": "9626 West Oaklawn Rd Biloxi, MS 39532",
+      "name": "9626 West Oaklawn Rd Biloxi, MS",
+      "plan": "Kai",
+      "id": "7",
+      "price": "$305,240",
+      "beds": "3bd",
+      "baths": "3ba",
+      "sqft": "1,893 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/daed8a62ab524946a8d70bb43f748ee3?v=5cc77800",
+      "url": "https://www.meritagehomes.com/state/ms/coastal-ms/river-oaks/kai-c193/9626-west-oaklawn-rd",
+      "latitude": "30.446984",
+      "longitude": "-88.998016",
+      "overview": "Gather in the open-concept great room or the covered rear patio. The main-floor primary suite features an ensuite bath and walk-in closet with laundry access. Upstairs, the spacious bedroom and loft provide a private retreat and flexible living space.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6ac2ce3735cd4ecdadf061c89b66fcd4?v=38bf055e",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6b29879287f64a0c86bd82e55b7dbff7?v=ed8ec6c5",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2b82b24a311049509f877ec2c615b778?v=ec371ace",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/85f8a11a2861441baafc2c09c96b7570?v=138e35a5",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/bdcf19ed686142b8940ab54e005fbe6e?v=33952cbb",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/fdc18f90aa2b497fbc6e9fc62ea65915?v=4aec7a43",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1dc2f483be31477f840ddc88957252d5?v=e1573d83",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/33c6c265889a4623b9f42f0166bf3c57?v=c70bdfe2",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3d96413a13ee4608ab85ba9d2084bd62?v=f8dd006b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e65ed3d19729404689db1cf03561fd6e?v=bc5c2585",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1c1ed50efbcf42ecb53c2d31a78cc482?v=f6006ec1",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/01f1633fa8c24b36b59a9255343d60f4?v=98918e0e",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7fd33767049344ed83523911b14dd53a?v=c6d816a6",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7153a5b1798440cfb3691ec51f0bc0c0?v=523700cc",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/75307e6445f3454780d7b0757c749ff6?v=13d40393",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9aa15727dcb64319b3925ee430264b50?v=8d129def",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/ccd2462c89a04cbc862fa7dea81bad59?v=f8e50d33",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/408f70adcdee4aff821d7b35a0cd2677?v=db588cf2",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c018fb432e554f77947d0fb5a6adf737?v=0dbee45b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/daed8a62ab524946a8d70bb43f748ee3?v=d1841848"
+      ]
+    }
+  ],
+  "nearbyplaces": [
+    {
+      "name": "North Woolmarket Elementary & Middle",
+      "category": "Middle School",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "D'Iberville High School",
+      "category": "Middle School",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Walmart Supercenter",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "The Promenade",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Edgewater Mall",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Target",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Academy Sports",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Sunkist Country Club",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Mullet Hop",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Biloxi Schooners",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Cypress Lanes Bowling",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "The Grand 18 - D'Iberville",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Ohr-O'Keefe Museum of Art",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Maritime & Seafood Industry Museum",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Coastal Mississippi Mardi Gras Museum",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Flatheads and Bottom Feeders",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Dewy Dew Bugz",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Cafe New Orleans",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Taranto's Seafood",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "I-10",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Gulfport Airport",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "collections": []
+}

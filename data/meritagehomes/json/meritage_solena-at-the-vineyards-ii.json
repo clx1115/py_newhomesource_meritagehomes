@@ -1,0 +1,624 @@
+{
+  "timestamp": "2025-06-06T15:52:27.125044",
+  "name": "Solena at the Vineyards II",
+  "status": null,
+  "url": "https://www.meritagehomes.com/state/nc/charlotte/solena-at-the-vineyards-ii",
+  "price_from": "From $446,990",
+  "address": "8636 Pennegrove Circle\n                            Charlotte, NC 28214",
+  "phone": null,
+  "description": "Visit Meritage Homes' Charlotte, NC new home community Solena at the Vineyards II in Charlotte, NC. Live in an energy-efficient home in West Mecklenburg High School School District. Move-in ready homes available.",
+  "images": [
+    "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c70ae237bf84490aa11cbfdca4f03807?v=215ae4b1"
+  ],
+  "location": {
+    "latitude": "35.231968",
+    "longitude": "-81.000456",
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "From $446,990",
+    "sqft_range": "1,542 - 2,572",
+    "bed_range": "3  - 4",
+    "bath_range": "2  - 3",
+    "stories_range": "1  - 2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Buchanan",
+      "url": "https://www.meritagehomes.com/state/nc/charlotte/solena-at-the-vineyards-ii/buchanan-441l",
+      "details": {
+        "price": "From $446,990",
+        "beds": "3bd",
+        "baths": "2ba",
+        "half_baths": null,
+        "sqft": "1542 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c70ae237bf84490aa11cbfdca4f03807?v=215ae4b1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/f01b5c7df5ea43ac99dcb24013cbf1d7?v=a24deb2c"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Sealed Insulated Ducts",
+          "section_index": 2
+        },
+        {
+          "description": "Low-to-Zero VOC Materials, Paints, Stains & Adhesives",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Chandler",
+      "url": "https://www.meritagehomes.com/state/nc/charlotte/solena-at-the-vineyards-ii/chandler-442l",
+      "details": {
+        "price": "From $467,990",
+        "beds": "3bd",
+        "baths": "2ba",
+        "half_baths": null,
+        "sqft": "1648 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/559fb73ad5b54acf8f4a2bb9cdf6b16d?v=c8aff467"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/835b46e6496b4e3aba31c54cacc35ed7?v=0a40865d"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Sealed Insulated Ducts",
+          "section_index": 2
+        },
+        {
+          "description": "Low-to-Zero VOC Materials, Paints, Stains & Adhesives",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Newport",
+      "url": "https://www.meritagehomes.com/state/nc/charlotte/solena-at-the-vineyards-ii/newport-444l",
+      "details": {
+        "price": "From $477,990",
+        "beds": "3bd",
+        "baths": "2ba",
+        "half_baths": null,
+        "sqft": "1835 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/743169e70ba74bde8b4f12ec3403f6b8?v=41963b59"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/29b3c4a8dde845af91545e65d269689b?v=b2858032"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Sealed Insulated Ducts",
+          "section_index": 2
+        },
+        {
+          "description": "Low-to-Zero VOC Materials, Paints, Stains & Adhesives",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Gibson",
+      "url": "https://www.meritagehomes.com/state/nc/charlotte/solena-at-the-vineyards-ii/gibson-445l",
+      "details": {
+        "price": "From $483,990",
+        "beds": "3bd",
+        "baths": "2ba",
+        "half_baths": "1",
+        "sqft": "2001 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/ccf4f7698a134b1daaf8df66e431f34b?v=c79a890a"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/275e9ee9d04242b6a2be64901bafd476?v=d102ba72"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Sealed Insulated Ducts",
+          "section_index": 2
+        },
+        {
+          "description": "Low-to-Zero VOC Materials, Paints, Stains & Adhesives",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Carolina",
+      "url": "https://www.meritagehomes.com/state/nc/charlotte/solena-at-the-vineyards-ii/carolina-462l",
+      "details": {
+        "price": "From $504,990",
+        "beds": "4bd",
+        "baths": "3ba",
+        "half_baths": null,
+        "sqft": "2208 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/d646fdc58f0f46daba620d4926f69a5c?v=308636f3"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7ae07c8ab1b94e3096e463a0700ebd9a?v=99eb33a5"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7ae07c8ab1b94e3096e463a0700ebd9a?v=99eb33a5"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Sealed Insulated Ducts",
+          "section_index": 2
+        },
+        {
+          "description": "Low-to-Zero VOC Materials, Paints, Stains & Adhesives",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [
+    {
+      "name": "Berryhill Elementary School",
+      "category": "Elementary",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Berryhill Middle School",
+      "category": "Elementary",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "West Mecklenburg High School",
+      "category": "Elementary",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Jackson Day School",
+      "category": "Elementary",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Northlake Mall",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Charlotte Premium Outlets",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Carolina Place Mall",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "U.S. National Whitewater Center",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Christmas Town, U.S.A.® - (McAdenville Lights)",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Famous Toastery Belmont",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "J.R. Cash's Grill & Bar",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Estia's Kouzina",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "District 8 Beer Company",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Primal Brewery Belmont",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Londa's Place",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Bad Daddy's Burger Bar",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Heirloom",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Nellie's Southern Kitchen",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "The String Bean",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Sammy's Neighborhood Pub",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Riverside Greenway Trailhead",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Iswa Nature Preserve",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Robert L. Smith District Park",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Kevin Loftin Riverfront Park",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Daniel Stowe Botanical Garden",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Carolinas Aviation Museum",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Cramer Mountain Club",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Carolina Golf Club",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Pine Island Country Club",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Lake Wylie Boat Rentals",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "I-485",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "I-85",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "I-77",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "CLT Int'l Airport",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "collections": []
+}

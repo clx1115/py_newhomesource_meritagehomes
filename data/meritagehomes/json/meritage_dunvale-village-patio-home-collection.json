@@ -1,0 +1,665 @@
+{
+  "timestamp": "2025-06-06T15:42:14.228610",
+  "name": "Dunvale Village - Patio Home Collection",
+  "status": null,
+  "url": "https://www.meritagehomes.com/state/tx/houston/dunvale-village-patio-home-collection",
+  "price_from": "From $434,990",
+  "address": "Closed\n                            Houston, TX 77063",
+  "phone": null,
+  "description": "Visit Meritage Homes' Houston, TX new home community Dunvale Village - Patio Home Collection in Houston, TX. Live in an energy-efficient home in Piney Point Elementary School School District. Move-in ready homes available.",
+  "images": [
+    "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2ae01ed8bb0a4322a84fea94012d476e?v=f099dc5c"
+  ],
+  "location": {
+    "latitude": "29.73193",
+    "longitude": "-95.51279",
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "From $434,990",
+    "sqft_range": "1,943 - 2,931",
+    "bed_range": "3  - 4",
+    "bath_range": "2  - 3",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "The Villa (1942)",
+      "url": "https://www.meritagehomes.com/state/tx/houston/dunvale-village-patio-home-collection/the-villa-1942-1942",
+      "details": {
+        "price": "From $434,990\nAs low as $3,831/mo",
+        "beds": "3bd",
+        "baths": "2ba",
+        "half_baths": "1",
+        "sqft": "1943 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/fe35f4fcf0ed4dcdaefefa1c97132b48?v=4b612c5e"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6a2360d1c61c49649dd3341f9b36fb72?v=c947fbc6"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6a2360d1c61c49649dd3341f9b36fb72?v=c947fbc6"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "High Performance Toilets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Thermostat",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Low-to-Zero VOC Materials, Paints, Stains & Adhesives",
+          "section_index": 1
+        },
+        {
+          "description": "Fresh Air Management System",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "PEX Plumbing",
+          "section_index": 2
+        },
+        {
+          "description": "Insulated Garage Doors",
+          "section_index": 2
+        },
+        {
+          "description": "Tankless Hot Water Heater",
+          "section_index": 3
+        },
+        {
+          "description": "Energy-Efficient Lighting",
+          "section_index": 3
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "The Retreat (2038)",
+      "url": "https://www.meritagehomes.com/state/tx/houston/dunvale-village-patio-home-collection/the-retreat-2038-2038",
+      "details": {
+        "price": "From $483,990\nAs low as $4,238/mo",
+        "beds": "3bd",
+        "baths": "2ba",
+        "half_baths": "1",
+        "sqft": "2005 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7b5c3f6b68ae4013a6440948064ec372?v=bb8c63cd"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/152ea10d341b42b597f1d2eb27ceab64?v=bed249f9"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/152ea10d341b42b597f1d2eb27ceab64?v=bed249f9"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "High Performance Toilets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Thermostat",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Low-to-Zero VOC Materials, Paints, Stains & Adhesives",
+          "section_index": 1
+        },
+        {
+          "description": "Fresh Air Management System",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "PEX Plumbing",
+          "section_index": 2
+        },
+        {
+          "description": "Insulated Garage Doors",
+          "section_index": 2
+        },
+        {
+          "description": "Tankless Hot Water Heater",
+          "section_index": 3
+        },
+        {
+          "description": "Energy-Efficient Lighting",
+          "section_index": 3
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "The Haven (2204)",
+      "url": "https://www.meritagehomes.com/state/tx/houston/dunvale-village-patio-home-collection/the-haven-2204-2204",
+      "details": {
+        "price": "From $483,990\nAs low as $4,255/mo",
+        "beds": "3bd",
+        "baths": "3ba",
+        "half_baths": null,
+        "sqft": "2248 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2ae01ed8bb0a4322a84fea94012d476e?v=f099dc5c"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/347442cc6b9245b38679de9e6de9936c?v=0eff09ea"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/347442cc6b9245b38679de9e6de9936c?v=0eff09ea"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "High Performance Toilets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Thermostat",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Low-to-Zero VOC Materials, Paints, Stains & Adhesives",
+          "section_index": 1
+        },
+        {
+          "description": "Fresh Air Management System",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "PEX Plumbing",
+          "section_index": 2
+        },
+        {
+          "description": "Insulated Garage Doors",
+          "section_index": 2
+        },
+        {
+          "description": "Tankless Hot Water Heater",
+          "section_index": 3
+        },
+        {
+          "description": "Energy-Efficient Lighting",
+          "section_index": 3
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "The Sanctuary (2518)",
+      "url": "https://www.meritagehomes.com/state/tx/houston/dunvale-village-patio-home-collection/the-sanctuary-2518-2518",
+      "details": {
+        "price": "From $516,990\nAs low as $4,513/mo",
+        "beds": "4bd",
+        "baths": "3ba",
+        "half_baths": null,
+        "sqft": "2518 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0b3679b09cdd45c0a30caa39b6e16a2d?v=3db6b303"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/29dffafecefc464cbe80651d41fc50cb?v=891cd978"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/29dffafecefc464cbe80651d41fc50cb?v=891cd978"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "High Performance Toilets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Thermostat",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Low-to-Zero VOC Materials, Paints, Stains & Adhesives",
+          "section_index": 1
+        },
+        {
+          "description": "Fresh Air Management System",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "PEX Plumbing",
+          "section_index": 2
+        },
+        {
+          "description": "Insulated Garage Doors",
+          "section_index": 2
+        },
+        {
+          "description": "Tankless Hot Water Heater",
+          "section_index": 3
+        },
+        {
+          "description": "Energy-Efficient Lighting",
+          "section_index": 3
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "The Chalet (2503)",
+      "url": "https://www.meritagehomes.com/state/tx/houston/dunvale-village-patio-home-collection/the-chalet-2503-2503",
+      "details": {
+        "price": "From $488,990\nAs low as $4,280/mo",
+        "beds": "4bd",
+        "baths": "2ba",
+        "half_baths": "1",
+        "sqft": "2539 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1aa2b26a718347e9b26bf08de2320198?v=1155af59"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0c2dfeb76e11404eb0272e127a36b2dd?v=f8285daa"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0c2dfeb76e11404eb0272e127a36b2dd?v=f8285daa"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "High Performance Toilets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Thermostat",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Low-to-Zero VOC Materials, Paints, Stains & Adhesives",
+          "section_index": 1
+        },
+        {
+          "description": "Fresh Air Management System",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "PEX Plumbing",
+          "section_index": 2
+        },
+        {
+          "description": "Insulated Garage Doors",
+          "section_index": 2
+        },
+        {
+          "description": "Tankless Hot Water Heater",
+          "section_index": 3
+        },
+        {
+          "description": "Energy-Efficient Lighting",
+          "section_index": 3
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "The Manor (2870)",
+      "url": "https://www.meritagehomes.com/state/tx/houston/dunvale-village-patio-home-collection/the-manor-2870-2870",
+      "details": {
+        "price": "From $523,990\nAs low as $4,688/mo",
+        "beds": "4bd",
+        "baths": "2ba",
+        "half_baths": "1",
+        "sqft": "2870 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/11c016d39cd64535910817f8718f44a3?v=4c8e1bc2"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5e453baa789f44328c3869779da74d77?v=959c4f59"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5e453baa789f44328c3869779da74d77?v=959c4f59"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "High Performance Toilets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Thermostat",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Low-to-Zero VOC Materials, Paints, Stains & Adhesives",
+          "section_index": 1
+        },
+        {
+          "description": "Fresh Air Management System",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "PEX Plumbing",
+          "section_index": 2
+        },
+        {
+          "description": "Insulated Garage Doors",
+          "section_index": 2
+        },
+        {
+          "description": "Tankless Hot Water Heater",
+          "section_index": 3
+        },
+        {
+          "description": "Energy-Efficient Lighting",
+          "section_index": 3
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [
+    {
+      "name": "Piney Point Elementary School",
+      "category": "Elementary",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Revere Middle School",
+      "category": "Elementary",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Wisdom High School",
+      "category": "Elementary",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "The Galleria",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Truluck's Ocean's Finest Seafood",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "The Melting Pot",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Sam Houston Tollway",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Southwest Freeway",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Westpark Tollway",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Hobby Airport",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "collections": []
+}

@@ -1,0 +1,848 @@
+{
+  "timestamp": "2025-06-06T15:44:09.261682",
+  "name": "Colbert Landings",
+  "status": null,
+  "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings",
+  "price_from": "From $352,990",
+  "address": "10 Armoyan Drive\n                            Palm Coast, FL 32137",
+  "phone": null,
+  "description": "Visit Meritage Homes' Palm Coast, FL new home community Colbert Landings in Jacksonville, FL. Live in an energy-efficient home in  School District. Move-in ready homes available.",
+  "images": [
+    "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b50dac65e10d4d1dbd4abddb37d6d917?v=db3f82e1"
+  ],
+  "location": {
+    "latitude": "29.484358",
+    "longitude": "-81.155996",
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "From $352,990",
+    "sqft_range": "1,695 - 2,193",
+    "bed_range": "3  - 4",
+    "bath_range": "2  - 3",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Bluebell",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/bluebell-4s05",
+      "details": {
+        "price": "From $356,990\nAs low as $2,413/mo",
+        "beds": "3bd",
+        "baths": "2ba",
+        "half_baths": null,
+        "sqft": "1491 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1e32597207924736b4435101fa7b03a2?v=ad491d2b"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b9e67412fdf5489ca4843514d99bdf3b?v=1d71931f"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Advanced Thermostat",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 2
+        },
+        {
+          "description": "Sealed Insulated Ducts",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "Insulated Garage Doors",
+          "section_index": 3
+        },
+        {
+          "description": "LED Lighting",
+          "section_index": 3
+        },
+        {
+          "description": "High Performance Air Filtration",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Daphne",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/daphne-4s10",
+      "details": {
+        "price": "From $352,990\nAs low as $2,480/mo",
+        "beds": "3bd",
+        "baths": "2ba",
+        "half_baths": null,
+        "sqft": "1695 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/030903a9f97a4084aca4a6dd6e33ef43?v=f811a11e"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3a8e698f2d2249c29c19ccfbe637d639?v=2f661eda"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Advanced Thermostat",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 2
+        },
+        {
+          "description": "Sealed Insulated Ducts",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "Insulated Garage Doors",
+          "section_index": 3
+        },
+        {
+          "description": "LED Lighting",
+          "section_index": 3
+        },
+        {
+          "description": "High Performance Air Filtration",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Azalea",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/azalea-4s17",
+      "details": {
+        "price": "From $362,990\nAs low as $2,547/mo",
+        "beds": "4bd",
+        "baths": "2ba",
+        "half_baths": null,
+        "sqft": "1817 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/42ce1c84aab148e6b572588369df9f23?v=90ad7640"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/41a5444fe64d46f1a7c254bc49a94380?v=8787e51b"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Advanced Thermostat",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 2
+        },
+        {
+          "description": "Sealed Insulated Ducts",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "Insulated Garage Doors",
+          "section_index": 3
+        },
+        {
+          "description": "LED Lighting",
+          "section_index": 3
+        },
+        {
+          "description": "High Performance Air Filtration",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Hibiscus",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/hibiscus-4s20",
+      "details": {
+        "price": "From $405,990\nAs low as $2,614/mo",
+        "beds": "4bd",
+        "baths": "3ba",
+        "half_baths": null,
+        "sqft": "1988 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/4f3899b398da46aba38aecd00eeb358e?v=79e1777e"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/bf309fca9ead4030804f85f7d3de764b?v=a4178d91"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Advanced Thermostat",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 2
+        },
+        {
+          "description": "Sealed Insulated Ducts",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "Insulated Garage Doors",
+          "section_index": 3
+        },
+        {
+          "description": "LED Lighting",
+          "section_index": 3
+        },
+        {
+          "description": "High Performance Air Filtration",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Orchid",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/orchid-4s25",
+      "details": {
+        "price": "From $382,990\nAs low as $2,681/mo",
+        "beds": "4bd",
+        "baths": "3ba",
+        "half_baths": null,
+        "sqft": "2193 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/39d0eb3c412f4fc08dc5d48ffa18690d?v=9c64dc31"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/999f3c130c3045318a390dfa09487fef?v=0f76f80c"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Advanced Thermostat",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 2
+        },
+        {
+          "description": "Sealed Insulated Ducts",
+          "section_index": 2
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "Insulated Garage Doors",
+          "section_index": 3
+        },
+        {
+          "description": "LED Lighting",
+          "section_index": 3
+        },
+        {
+          "description": "High Performance Air Filtration",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "address": "12 Ararat Drive Palm Coast, FL 32137",
+      "name": "12 Ararat Drive Palm Coast, FL",
+      "plan": "Daphne",
+      "id": "1",
+      "price": "$352,990\nAs low as $2,386/mo",
+      "beds": "3bd",
+      "baths": "2ba",
+      "sqft": "1,695 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/030903a9f97a4084aca4a6dd6e33ef43?v=da5bb856",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/daphne-4s10/12-ararat-drive",
+      "latitude": "29.484623",
+      "longitude": "-81.160077",
+      "overview": "Are you ready to buy a home? The Daphne floorplan in Flagler Village, offers an open-concept floorplan with 3 bedrooms, 2 bathrooms and a 2-car garage. Configure the flex room in the front of the home to an at-home office or hobby space.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c13ff2aaa20043cf803d5dcc39932458?v=020aa66b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/722bf33bd7dd43fea1bbd5eecdaf10b1?v=8b5d9b64",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/d0735581015442f3855b4a074db2a72a?v=4b5e4c12",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b227af9136e54517a7a0e87efdf402c9?v=fd2ca851",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9301625c557d43129cbd0381b1d5b286?v=05021aef"
+      ]
+    },
+    {
+      "address": "68 Tequesta Court Palm Coast, FL 32137",
+      "name": "68 Tequesta Court Palm Coast, FL",
+      "plan": "Daphne",
+      "id": "2",
+      "price": "$369,990\nAs low as $2,500/mo",
+      "beds": "3bd",
+      "baths": "2ba",
+      "sqft": "1,695 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/383b305032804e48b771d87137dd0186?v=6f43ffe1",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/daphne-4s10/68-tequesta-court",
+      "latitude": "29.48408",
+      "longitude": "-81.1605",
+      "overview": "Are you ready to buy a home? The Daphne floorplan in Colbert Landings, offers an open-concept floorplan with 3 bedrooms, 2 bathrooms and a 2-car garage. Configure the flex room in the front of the home to an at-home office or hobby space.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c13ff2aaa20043cf803d5dcc39932458?v=020aa66b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/722bf33bd7dd43fea1bbd5eecdaf10b1?v=8b5d9b64",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/d0735581015442f3855b4a074db2a72a?v=4b5e4c12",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b227af9136e54517a7a0e87efdf402c9?v=fd2ca851",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9301625c557d43129cbd0381b1d5b286?v=05021aef"
+      ]
+    },
+    {
+      "address": "15 Ararat Drive Palm Coast, FL 32137",
+      "name": "15 Ararat Drive Palm Coast, FL",
+      "plan": "Azalea",
+      "id": "3",
+      "price": "$362,990\nAs low as $2,453/mo",
+      "beds": "4bd",
+      "baths": "2ba",
+      "sqft": "1,817 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/42ce1c84aab148e6b572588369df9f23?v=ab532e16",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/azalea-4s17/15-ararat-drive",
+      "latitude": "29.48469",
+      "longitude": "-81.16073",
+      "overview": "The Azalea floorplan in Colbert Landings offers an open-concept floorplan with 4 bedrooms, 2 bathrooms and a 2 car garage. Entertain with ease on the integrated covered lanai.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b8b52c7bb89b423b8c5e31c492af0914?v=493d06e8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/d6cff1d88b3e4f3498c87df45ee897c8?v=134a5f52",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/38f21c849a684d8cac44d9041023a84f?v=fa85b80c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/8282335cef3842808012c316bbd8748d?v=bc901c10",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7fcc04d21df14ef09f44be86b896d6d4?v=ca7df4df"
+      ]
+    },
+    {
+      "address": "24 Ararat Drive Palm Coast, FL 32137",
+      "name": "24 Ararat Drive Palm Coast, FL",
+      "plan": "Azalea",
+      "id": "4",
+      "price": "$367,990\nAs low as $2,487/mo",
+      "beds": "4bd",
+      "baths": "2ba",
+      "sqft": "1,817 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6a209d864d284ea78c356cf4ad1f4927?v=cc58b709",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/azalea-4s17/24-ararat-drive",
+      "latitude": "29.486466",
+      "longitude": "-81.162099",
+      "overview": "The Azalea floorplan in Colbert Landings offers an open-concept floorplan with 4 bedrooms, 2 bathrooms and a 2 car garage. Entertain with ease on the integrated covered lanai.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b8b52c7bb89b423b8c5e31c492af0914?v=493d06e8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/d6cff1d88b3e4f3498c87df45ee897c8?v=134a5f52",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/38f21c849a684d8cac44d9041023a84f?v=fa85b80c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/8282335cef3842808012c316bbd8748d?v=bc901c10",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7fcc04d21df14ef09f44be86b896d6d4?v=ca7df4df"
+      ]
+    },
+    {
+      "address": "20 Ararat Drive Palm Coast, FL 32137",
+      "name": "20 Ararat Drive Palm Coast, FL",
+      "plan": "Azalea",
+      "id": "5",
+      "price": "$379,990\nAs low as $2,567/mo",
+      "beds": "4bd",
+      "baths": "2ba",
+      "sqft": "1,817 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/42ce1c84aab148e6b572588369df9f23?v=1359b242",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/azalea-4s17/20-ararat-drive",
+      "latitude": "29.489973",
+      "longitude": "-81.161407",
+      "overview": "Deciding where to buy a home? The Azalea floorplan in Colbert Landings offers an open-concept floorplan with 4 bedrooms, 2 bathrooms and a 2 car garage. Entertain with ease on the integrated covered lanai.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b8b52c7bb89b423b8c5e31c492af0914?v=493d06e8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/d6cff1d88b3e4f3498c87df45ee897c8?v=134a5f52",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/38f21c849a684d8cac44d9041023a84f?v=fa85b80c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/8282335cef3842808012c316bbd8748d?v=bc901c10",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7fcc04d21df14ef09f44be86b896d6d4?v=ca7df4df"
+      ]
+    },
+    {
+      "address": "8 Ararat Drive Palm Coast, FL 32137",
+      "name": "8 Ararat Drive Palm Coast, FL",
+      "plan": "Azalea",
+      "id": "6",
+      "price": "$371,990\nAs low as $2,514/mo",
+      "beds": "4bd",
+      "baths": "2ba",
+      "sqft": "1,817 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/42ce1c84aab148e6b572588369df9f23?v=c1c25aa3",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/azalea-4s17/8-ararat-drive",
+      "latitude": "29.484382",
+      "longitude": "-81.15993",
+      "overview": "Deciding where to buy a home? The Azalea floorplan in Colbert Landings offers an open-concept floorplan with 4 bedrooms, 2 bathrooms and a 2 car garage. Entertain with ease on the integrated covered lanai.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b8b52c7bb89b423b8c5e31c492af0914?v=493d06e8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/d6cff1d88b3e4f3498c87df45ee897c8?v=134a5f52",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/38f21c849a684d8cac44d9041023a84f?v=fa85b80c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/8282335cef3842808012c316bbd8748d?v=bc901c10",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7fcc04d21df14ef09f44be86b896d6d4?v=ca7df4df"
+      ]
+    },
+    {
+      "address": "66 Tequesta Court Palm Coast, FL 32137",
+      "name": "66 Tequesta Court Palm Coast, FL",
+      "plan": "Hibiscus",
+      "id": "7",
+      "price": "$405,990\nAs low as $2,742/mo",
+      "beds": "4bd",
+      "baths": "3ba",
+      "sqft": "1,988 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/a5684d9a41d14d3ba9dae2e2e8a7542e?v=53f3e83b",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/hibiscus-4s20/66-tequesta-court",
+      "latitude": "29.48402",
+      "longitude": "-81.16027",
+      "overview": "The Hibiscus floorplan in Colbert Landings, offers an open-concept floorplan with 4 bedrooms, 3 bathrooms and a 2-car garage. Open floor plan creates a unified living space with a large great room that overlooks the kitchen.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9be30ee379fb4179afaaad5133d2d7a4?v=bcabdefd",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/45c41cd644f342b8b6a1bc17f51ffa07?v=bd299a66",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2e358a3ade10436e81a61559315834ee?v=2da5439f",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/52197ec0be9041309bf977dfd88cb742?v=0c3335c3",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/28586302f2224c02b680fe3a853ae60c?v=cc6688b1",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b50dac65e10d4d1dbd4abddb37d6d917?v=db3f82e1",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0cb9a5c19f634c509a0ff52a50e34577?v=316abfae",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e21e1d0a123f4b4aa2a0052a437eb191?v=66649405",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b01817c2d36e4f5b8e96e04b4caa3b69?v=013627ea",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1f6cf87c1fbf45589ddce139c3814ddf?v=1335620c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/4412a346b4b446d2aad6d65361237bea?v=ba1f2c60",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/ef21e3147ece4a598af050620490789a?v=876f7f78",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/db1ad7fb25bc4a56b37eeec2223d6c10?v=9c32d060",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/944fd7bbce354a43ac09130ec8c1282a?v=2bc9de50",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/224fb2708075405b8b12c40fa071f304?v=b0dc7e03",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1d2d826801fd4dd490c4464c5e8ff2d4?v=e1413dc3",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5322b480184646f6b3b49407c3e05d16?v=dbd6be16"
+      ]
+    },
+    {
+      "address": "72 Tequesta Court Palm Coast, FL 32137",
+      "name": "72 Tequesta Court Palm Coast, FL",
+      "plan": "Orchid",
+      "id": "8",
+      "price": "$382,990\nAs low as $2,587/mo",
+      "beds": "4bd",
+      "baths": "3ba",
+      "sqft": "2,193 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3df9ce547c134f47a7eee0e8a8efd4b5?v=be7bf740",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/orchid-4s25/72-tequesta-court",
+      "latitude": "29.48411",
+      "longitude": "-81.16086",
+      "overview": "Are you ready to buy a home? The Orchid floorplan in Colbert Landings, offers 4 bedrooms, 3 bathrooms and a 2-car garage. Configure the flex room at the front of the home to fit your needs.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/662654f3335642e18566959814a1f152?v=e7d6a5b8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0f6f3e12dcf24df690f4ff72ef9a5020?v=ed36b9c8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c922c8fe1f1048648a7adb6be51bb1c7?v=8fe340fc",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0570d65cc85d42f6b9d988967dbd89da?v=92578a0d",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5d0e1103c3ea41859222bca92f6a8f4b?v=8cbd2c68",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5a187ed362204422b4ab1f87a66ae2db?v=5cf3f123",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7ffe003cedac445b9a9660fec079ab4d?v=82bb54a9",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/03c7e735dc5d4aa9a29a16adca0d2df4?v=b06ccc28",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/bb8dd656e5fb4baeb50ad1a7c61f0c71?v=8054d868",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/82e233cfab9548e28838e0e5c6b069f0?v=eb27fcba",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/65b16a19f73e46d18cf12fc66c0efd38?v=58189da5"
+      ]
+    },
+    {
+      "address": "22 Ararat Drive Palm Coast, FL 32137",
+      "name": "22 Ararat Drive Palm Coast, FL",
+      "plan": "Orchid",
+      "id": "9",
+      "price": "$384,990\nAs low as $2,601/mo",
+      "beds": "4bd",
+      "baths": "3ba",
+      "sqft": "2,193 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9b825b7364514d119d4322f0f8e85a8b?v=747b6649",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/orchid-4s25/22-ararat-drive",
+      "latitude": "29.489482",
+      "longitude": "-81.161957",
+      "overview": "Are you ready to buy a home? The Orchid floorplan at Colbert Landings, offers 4 bedrooms, 3 bathrooms and a 2-car garage. Configure the teen room at the front of the home to fit your family's needs.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/662654f3335642e18566959814a1f152?v=e7d6a5b8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0f6f3e12dcf24df690f4ff72ef9a5020?v=ed36b9c8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c922c8fe1f1048648a7adb6be51bb1c7?v=8fe340fc",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0570d65cc85d42f6b9d988967dbd89da?v=92578a0d",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5d0e1103c3ea41859222bca92f6a8f4b?v=8cbd2c68",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5a187ed362204422b4ab1f87a66ae2db?v=5cf3f123",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7ffe003cedac445b9a9660fec079ab4d?v=82bb54a9",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/03c7e735dc5d4aa9a29a16adca0d2df4?v=b06ccc28",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/bb8dd656e5fb4baeb50ad1a7c61f0c71?v=8054d868",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/82e233cfab9548e28838e0e5c6b069f0?v=eb27fcba",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/65b16a19f73e46d18cf12fc66c0efd38?v=58189da5"
+      ]
+    },
+    {
+      "address": "16 Ararat Drive Palm Coast, FL 32137",
+      "name": "16 Ararat Drive Palm Coast, FL",
+      "plan": "Orchid",
+      "id": "10",
+      "price": "$386,990\nAs low as $2,614/mo",
+      "beds": "4bd",
+      "baths": "3ba",
+      "sqft": "2,193 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/a63811af2ad448289666d30873d39afa?v=690af441",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/orchid-4s25/16-ararat-drive",
+      "latitude": "29.490364",
+      "longitude": "-81.162511",
+      "overview": "Are you ready to buy a home? The Orchid floorplan in Colbert Landings, offers 4 bedrooms, 3 bathrooms and a 2-car garage. Configure the teen room at the front of the home to fit your family's needs.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/662654f3335642e18566959814a1f152?v=e7d6a5b8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0f6f3e12dcf24df690f4ff72ef9a5020?v=ed36b9c8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c922c8fe1f1048648a7adb6be51bb1c7?v=8fe340fc",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0570d65cc85d42f6b9d988967dbd89da?v=92578a0d",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5d0e1103c3ea41859222bca92f6a8f4b?v=8cbd2c68",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5a187ed362204422b4ab1f87a66ae2db?v=5cf3f123",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7ffe003cedac445b9a9660fec079ab4d?v=82bb54a9",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/03c7e735dc5d4aa9a29a16adca0d2df4?v=b06ccc28",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/bb8dd656e5fb4baeb50ad1a7c61f0c71?v=8054d868",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/82e233cfab9548e28838e0e5c6b069f0?v=eb27fcba",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/65b16a19f73e46d18cf12fc66c0efd38?v=58189da5"
+      ]
+    },
+    {
+      "address": "17 Ararat Drive Palm Coast, FL 32137",
+      "name": "17 Ararat Drive Palm Coast, FL",
+      "plan": "Orchid",
+      "id": "11",
+      "price": "$417,990\nAs low as $2,822/mo",
+      "beds": "4bd",
+      "baths": "3ba",
+      "sqft": "2,193 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7261f37309174f168764569264ed5477?v=fe20b876",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/orchid-4s25/17-ararat-drive",
+      "latitude": "29.489493",
+      "longitude": "-81.162124",
+      "overview": "Are you ready to buy a home? The Orchid floorplan in Colbert Landings offers 4 bedrooms, 3 bathrooms and a 2-car garage. Configure the teen room at the front of the home to fit your family's needs.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/662654f3335642e18566959814a1f152?v=e7d6a5b8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0f6f3e12dcf24df690f4ff72ef9a5020?v=ed36b9c8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c922c8fe1f1048648a7adb6be51bb1c7?v=8fe340fc",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0570d65cc85d42f6b9d988967dbd89da?v=92578a0d",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5d0e1103c3ea41859222bca92f6a8f4b?v=8cbd2c68",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5a187ed362204422b4ab1f87a66ae2db?v=5cf3f123",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7ffe003cedac445b9a9660fec079ab4d?v=82bb54a9",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/03c7e735dc5d4aa9a29a16adca0d2df4?v=b06ccc28",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/bb8dd656e5fb4baeb50ad1a7c61f0c71?v=8054d868",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/82e233cfab9548e28838e0e5c6b069f0?v=eb27fcba",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/65b16a19f73e46d18cf12fc66c0efd38?v=58189da5"
+      ]
+    },
+    {
+      "address": "18 Ararat Drive Palm Coast, FL 32137",
+      "name": "18 Ararat Drive Palm Coast, FL",
+      "plan": "Orchid",
+      "id": "12",
+      "price": "$399,990\nAs low as $2,701/mo",
+      "beds": "4bd",
+      "baths": "3ba",
+      "sqft": "2,193 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6acfce862b244b37a4301199d91553b1?v=dd8a2436",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/orchid-4s25/18-ararat-drive",
+      "latitude": "29.489403",
+      "longitude": "-81.162632",
+      "overview": "Are you ready to buy a home? The Orchid floorplan in Colbert Landings, offers 4 bedrooms, 3 bathrooms and a 2-car garage. Configure the teen room at the front of the home to fit your family's needs.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/662654f3335642e18566959814a1f152?v=e7d6a5b8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0f6f3e12dcf24df690f4ff72ef9a5020?v=ed36b9c8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c922c8fe1f1048648a7adb6be51bb1c7?v=8fe340fc",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0570d65cc85d42f6b9d988967dbd89da?v=92578a0d",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5d0e1103c3ea41859222bca92f6a8f4b?v=8cbd2c68",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5a187ed362204422b4ab1f87a66ae2db?v=5cf3f123",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7ffe003cedac445b9a9660fec079ab4d?v=82bb54a9",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/03c7e735dc5d4aa9a29a16adca0d2df4?v=b06ccc28",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/bb8dd656e5fb4baeb50ad1a7c61f0c71?v=8054d868",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/82e233cfab9548e28838e0e5c6b069f0?v=eb27fcba",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/65b16a19f73e46d18cf12fc66c0efd38?v=58189da5"
+      ]
+    },
+    {
+      "address": "10 Ararat Drive Palm Coast, FL 32137",
+      "name": "10 Ararat Drive Palm Coast, FL",
+      "plan": "Orchid",
+      "id": "13",
+      "price": "$389,990\nAs low as $2,634/mo",
+      "beds": "4bd",
+      "baths": "3ba",
+      "sqft": "2,193 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/39d0eb3c412f4fc08dc5d48ffa18690d?v=91b20883",
+      "url": "https://www.meritagehomes.com/state/fl/jacksonville/colbert-landings/orchid-4s25/10-ararat-drive",
+      "latitude": "29.484517",
+      "longitude": "-81.160008",
+      "overview": "Are you ready to buy a home? The Orchid floorplan in Colbert Landings, offers 4 bedrooms, 3 bathrooms and a 2-car garage. Configure the teen room at the front of the home to fit your family's needs.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/662654f3335642e18566959814a1f152?v=e7d6a5b8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0f6f3e12dcf24df690f4ff72ef9a5020?v=ed36b9c8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c922c8fe1f1048648a7adb6be51bb1c7?v=8fe340fc",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0570d65cc85d42f6b9d988967dbd89da?v=92578a0d",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5d0e1103c3ea41859222bca92f6a8f4b?v=8cbd2c68",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5a187ed362204422b4ab1f87a66ae2db?v=5cf3f123",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7ffe003cedac445b9a9660fec079ab4d?v=82bb54a9",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/03c7e735dc5d4aa9a29a16adca0d2df4?v=b06ccc28",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/bb8dd656e5fb4baeb50ad1a7c61f0c71?v=8054d868",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/82e233cfab9548e28838e0e5c6b069f0?v=eb27fcba",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/65b16a19f73e46d18cf12fc66c0efd38?v=58189da5"
+      ]
+    }
+  ],
+  "nearbyplaces": [
+    {
+      "name": "Tortugas Florida Kitchen and Bar",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "The Golden Lion",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Margarita Island",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Funky Pelican",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Central Park in Town Center",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Southern Recreational Park - Pickleball and Tennis",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Flagler Beach",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Lehigh Greenway Rail Trail",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Tennis and Racquet Ball at Wadsworth Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Town Center at Palm Coast",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "I-95",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "State Rd 100",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Orlando Intl Airport",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Jacksonville Intl",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "collections": []
+}
