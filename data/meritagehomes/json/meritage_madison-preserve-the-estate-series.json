@@ -1,0 +1,1181 @@
+{
+  "timestamp": "2025-06-20T14:11:57.909421",
+  "name": "Madison Preserve - The Estate Series",
+  "status": null,
+  "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series",
+  "price_from": "From $309,990",
+  "address": "29175 Satilla Circle\n                            Madison, AL 35756",
+  "phone": null,
+  "description": "Now selling in Huntsville, Madison Preserve features ranch and two-story single-family homes. This community is located off I-565 with easy access to the Huntsville International airport and Redstone Arsenal Army Base. Homeowners will also enjoy community amenities, including a pool, cabana and plenty of green space. We build each home with innovative, energy-efficient features that cut down on utility bills so you can afford to do more living.",
+  "images": [
+    "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e6b34b25baec4210a401caf717bbb114?v=bbca5108"
+  ],
+  "location": {
+    "latitude": "34.671185",
+    "longitude": "-86.804258",
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "From $309,990",
+    "sqft_range": "1,648 - 2,479",
+    "bed_range": "3  - 4",
+    "bath_range": "2  - 3",
+    "stories_range": "1  - 2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Chandler",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/chandler-s442",
+      "details": {
+        "price": "From $309,990",
+        "beds": "3bd",
+        "baths": "2ba",
+        "half_baths": null,
+        "sqft": "1648 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b9701c47e3714e26945a5af229d1a5d4?v=eba2a69e"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/0b559fc8791f4f1a8ecb2b39d65e17da?v=f4dcf9dd"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "PEX Plumbing",
+          "section_index": 2
+        },
+        {
+          "description": "92% High-Efficiency Dual Furnace",
+          "section_index": 2
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "High Performance Air Filtration",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        },
+        {
+          "description": "Full Whirlpool® Appliance Suite",
+          "section_index": 3
+        },
+        {
+          "description": "Whole Home Blinds",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Newport",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/newport-s444",
+      "details": {
+        "price": "From $319,990",
+        "beds": "4bd",
+        "baths": "2ba",
+        "half_baths": null,
+        "sqft": "1835 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3971aa14e76b47a2b6c5fb6fa2cf9bea?v=847eff3d"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/691fbb1a18a34c9a82aa7f6437411bcd?v=2ce90352"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "PEX Plumbing",
+          "section_index": 2
+        },
+        {
+          "description": "92% High-Efficiency Dual Furnace",
+          "section_index": 2
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "High Performance Air Filtration",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        },
+        {
+          "description": "Full Whirlpool® Appliance Suite",
+          "section_index": 3
+        },
+        {
+          "description": "Whole Home Blinds",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Gibson",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/gibson-s445",
+      "details": {
+        "price": "From $404,230",
+        "beds": "4bd",
+        "baths": "3ba",
+        "half_baths": null,
+        "sqft": "2001 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b3d2f9d187624133ae6548d2465b32e1?v=c44dc058"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9a860905f63f402abdd83157ecc887e2?v=774bda12"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "PEX Plumbing",
+          "section_index": 2
+        },
+        {
+          "description": "92% High-Efficiency Dual Furnace",
+          "section_index": 2
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "High Performance Air Filtration",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        },
+        {
+          "description": "Full Whirlpool® Appliance Suite",
+          "section_index": 3
+        },
+        {
+          "description": "Whole Home Blinds",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Carolina",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/carolina-s462",
+      "details": {
+        "price": "From $349,990",
+        "beds": "4bd",
+        "baths": "3ba",
+        "half_baths": null,
+        "sqft": "2208 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/085efca553da42d6b8b136b24ead2e72?v=531f1954"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/180d5e3276e84761a9b0bd9ae1b9c147?v=4b697718"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/180d5e3276e84761a9b0bd9ae1b9c147?v=4b697718"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "PEX Plumbing",
+          "section_index": 2
+        },
+        {
+          "description": "92% High-Efficiency Dual Furnace",
+          "section_index": 2
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "High Performance Air Filtration",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        },
+        {
+          "description": "Full Whirlpool® Appliance Suite",
+          "section_index": 3
+        },
+        {
+          "description": "Whole Home Blinds",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Northbrook",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/northbrook-s464",
+      "details": {
+        "price": "From $359,990",
+        "beds": "4bd",
+        "baths": "3ba",
+        "half_baths": null,
+        "sqft": "2412 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/fe1699799c2444129caa8ceb93f30fed?v=6bd695fe"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5f9f4dca5762401996897c7fe3493322?v=e56c8dfc"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5f9f4dca5762401996897c7fe3493322?v=e56c8dfc"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "PEX Plumbing",
+          "section_index": 2
+        },
+        {
+          "description": "92% High-Efficiency Dual Furnace",
+          "section_index": 2
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "High Performance Air Filtration",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        },
+        {
+          "description": "Full Whirlpool® Appliance Suite",
+          "section_index": 3
+        },
+        {
+          "description": "Whole Home Blinds",
+          "section_index": 3
+        }
+      ]
+    },
+    {
+      "name": "Dakota",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/dakota-s450",
+      "details": {
+        "price": "From $374,990",
+        "beds": "4bd",
+        "baths": "2ba",
+        "half_baths": "1",
+        "sqft": "2479 ft²",
+        "status": "Actively selling",
+        "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9a7f44719474411b9bd72b718bba6845?v=14f38253"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/4481b904d1e34e13bd3a5e8f4574f139?v=17b7ca6d"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/4481b904d1e34e13bd3a5e8f4574f139?v=17b7ca6d"
+        }
+      ],
+      "includedFeatures": [
+        {
+          "description": "Water-Efficient Faucets",
+          "section_index": 0
+        },
+        {
+          "description": "ENERGY STAR® Dishwasher and Appliance Options",
+          "section_index": 0
+        },
+        {
+          "description": "Advanced Framing",
+          "section_index": 0
+        },
+        {
+          "description": "Spray Foam Insulation",
+          "section_index": 1
+        },
+        {
+          "description": "Conditioned Attics",
+          "section_index": 1
+        },
+        {
+          "description": "Low-E Windows",
+          "section_index": 1
+        },
+        {
+          "description": "Indoor airPLUS Certification",
+          "section_index": 2
+        },
+        {
+          "description": "PEX Plumbing",
+          "section_index": 2
+        },
+        {
+          "description": "92% High-Efficiency Dual Furnace",
+          "section_index": 2
+        },
+        {
+          "description": "M.Connected Home™ Automation Suite",
+          "section_index": 3
+        },
+        {
+          "description": "High Performance Air Filtration",
+          "section_index": 3
+        },
+        {
+          "description": "MERV 13",
+          "section_index": 3
+        },
+        {
+          "description": "Multispeed HVAC",
+          "section_index": 3
+        },
+        {
+          "description": "Full Whirlpool® Appliance Suite",
+          "section_index": 3
+        },
+        {
+          "description": "Whole Home Blinds",
+          "section_index": 3
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "address": "29283 Satilla Circle Madison, AL 35756",
+      "name": "29283 Satilla Circle Madison, AL",
+      "plan": "Chandler",
+      "id": "1",
+      "price": "$382,240",
+      "beds": "3bd",
+      "baths": "2ba",
+      "sqft": "1,648 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/f31908f14b504073961cad9b5018f9b8?v=aca9b531",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/chandler-s442/29283-satilla-circle",
+      "latitude": "34.67247",
+      "longitude": "-86.805604",
+      "overview": "Enjoy happy hour on the Chandler's covered back patio. Inside, the sprawling kitchen island overlooks the great room. In the primary suite, dual sinks and a walk-in closet simplify busy mornings.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/a809a68497e647c0943d155e277260b5?v=edd015d6",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3b86fa85c08641af92c7cf4c48074b41?v=033d2b84",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c293a22b61b44699a577cc7832ebac0d?v=e675b3ed",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/23f39a0885bf4498a3424c1b6768331d?v=ec2b8113",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3d43505177284c608c1ed96e9c7070b7?v=547eab2b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/ed517293cf114220884b6c8d91bd33e0?v=c886b0f0",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/de358d8dd5e94ba5a0ed68c337d4ea0b?v=d5ef9c69",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/93bc0e2c7d73469c879e819af3363eb0?v=8fd3cb65",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b3d92cbb5b0844f98ba1ac5d785cc26c?v=e1343aaf",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e65f5790f8b44eafa70ed45374ab3ca0?v=8d3b906b"
+      ]
+    },
+    {
+      "address": "29215 Satilla Circle Madison, AL 35756",
+      "name": "29215 Satilla Circle Madison, AL",
+      "plan": "Chandler",
+      "id": "2",
+      "price": "$309,990",
+      "beds": "3bd",
+      "baths": "2ba",
+      "sqft": "1,648 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/4bf0a8628e6441b6acfcfcdf9978b22b?v=39999876",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/chandler-s442/29215-satilla-circle",
+      "latitude": "34.6724",
+      "longitude": "-86.8044",
+      "overview": "Enjoy happy hour on the Chandler's covered back patio. Inside, the sprawling kitchen island overlooks the great room. In the primary suite, dual sinks and a walk-in closet simplify busy mornings.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/a809a68497e647c0943d155e277260b5?v=edd015d6",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3b86fa85c08641af92c7cf4c48074b41?v=033d2b84",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c293a22b61b44699a577cc7832ebac0d?v=e675b3ed",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/23f39a0885bf4498a3424c1b6768331d?v=ec2b8113",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3d43505177284c608c1ed96e9c7070b7?v=547eab2b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/ed517293cf114220884b6c8d91bd33e0?v=c886b0f0",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/de358d8dd5e94ba5a0ed68c337d4ea0b?v=d5ef9c69",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/93bc0e2c7d73469c879e819af3363eb0?v=8fd3cb65",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b3d92cbb5b0844f98ba1ac5d785cc26c?v=e1343aaf",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e65f5790f8b44eafa70ed45374ab3ca0?v=8d3b906b"
+      ]
+    },
+    {
+      "address": "29291 Satilla Circle Madison, AL 35756",
+      "name": "29291 Satilla Circle Madison, AL",
+      "plan": "Newport",
+      "id": "3",
+      "price": "$386,330",
+      "beds": "3bd",
+      "baths": "2ba",
+      "sqft": "1,835 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/899ba3f009314446b1d9c3996f4ec75c?v=793da91b",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/newport-s444/29291-satilla-circle",
+      "latitude": "34.67286",
+      "longitude": "-86.80592",
+      "overview": "Purpose the Newport's sizeable flex space into the media room you’ve always wanted. A walk-in pantry and large kitchen island make it easy to feed a group. Tray ceilings in the primary suite lend an elegant touch.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/59ed29a1c5b14babbc59b0267595f5cf?v=83aff238",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5025689829574b04b3c2d6b37aca0f31?v=6e5db662",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/252783706dc74f3fb2807c4b24a195f7?v=c012e1e1",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e85b4c41980c4d819b231889a1bedfb2?v=a522479d",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/95fa5ed9ece44e2da42d70bb7bacc60a?v=3220f2c5",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b394545c5b0642ee900a6c0f5d0beee9?v=533c84c0",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9d506c27269d4fbabb4e9a76f4ac5777?v=3d96498c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/261a9896af264734a71b481fe2f4bb0b?v=b440cd8b"
+      ]
+    },
+    {
+      "address": "29227 Satilla Circle Madison, AL 35756",
+      "name": "29227 Satilla Circle Madison, AL",
+      "plan": "Newport",
+      "id": "4",
+      "price": "$319,990",
+      "beds": "4bd",
+      "baths": "2ba",
+      "sqft": "1,835 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/aecf0498ecbb428c8d58ae2a8c425bd9?v=1071dacd",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/newport-s444/29227-satilla-circle",
+      "latitude": "34.67241",
+      "longitude": "-86.80462",
+      "overview": "Purpose the Newport's sizeable flex space into the media room you’ve always wanted. A walk-in pantry and large kitchen island make it easy to feed a group. Tray ceilings in the primary suite lend an elegant touch.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/59ed29a1c5b14babbc59b0267595f5cf?v=83aff238",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5025689829574b04b3c2d6b37aca0f31?v=6e5db662",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/252783706dc74f3fb2807c4b24a195f7?v=c012e1e1",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e85b4c41980c4d819b231889a1bedfb2?v=a522479d",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/95fa5ed9ece44e2da42d70bb7bacc60a?v=3220f2c5",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b394545c5b0642ee900a6c0f5d0beee9?v=533c84c0",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9d506c27269d4fbabb4e9a76f4ac5777?v=3d96498c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/261a9896af264734a71b481fe2f4bb0b?v=b440cd8b"
+      ]
+    },
+    {
+      "address": "29303 Satilla Circle Madison, AL 35756",
+      "name": "29303 Satilla Circle Madison, AL",
+      "plan": "Gibson",
+      "id": "5",
+      "price": "$404,230",
+      "beds": "4bd",
+      "baths": "3ba",
+      "sqft": "2,001 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/d8c5a672289947e0b35e57d671330478?v=660d39d1",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/gibson-s445/29303-satilla-circle",
+      "latitude": "34.67301",
+      "longitude": "-86.80605",
+      "overview": "Entertain with ease in the Gibson's bright, open-concept living space. A secondary bath with dual sinks serves both secondary bedrooms, while the private primary suite boasts a walk-in shower and impressive closet.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c947f3959261486dab96fde8544c2b84?v=174ca83c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/84633b22357042969ea46d51270bbde6?v=95a52176",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2539cbeb6ec54ecc90410d43d2dd1ed4?v=26e50c4b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/a8ba37e1c0844721abdb4af5a11fe7e4?v=b925da3e",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/c8e30e8317ff493ab998cf43a5e33592?v=aebbd016",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3106c6524ff147e698a183beccfa31dc?v=35e813ac",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/3efd05d25f9f43a9980dc37e29616cba?v=f993be01",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9ce63c95b97c4bb8b057887b5e741da0?v=dca51521",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/246d939b89f043918592ff10ce205356?v=d736d475",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/79afe668beda4944817a95f191114130?v=4ae750d3",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/d0e26bfcec68406a81fa207765e49725?v=4ef67e47",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5cd8c62c0068412e998fd897b1bf5d0a?v=268fe136",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/6871469608fb4f109e0900694ce22889?v=8176a8f7",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/096322acb37244c589f8073e26409506?v=f408dbd6",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e5b7c4f667ac45a890398e8cc0105d81?v=a7b641e5",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/f37818aaa6c64532821f32be4e4b609b?v=dd87fb77"
+      ]
+    },
+    {
+      "address": "29233 Satilla Circle Madison, AL 35756",
+      "name": "29233 Satilla Circle Madison, AL",
+      "plan": "Carolina",
+      "id": "6",
+      "price": "$349,990",
+      "beds": "4bd",
+      "baths": "3ba",
+      "sqft": "2,208 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/bef344c72a8c42d8a580c2bde08825d0?v=0aa5ea78",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/carolina-s462/29233-satilla-circle",
+      "latitude": "34.67243",
+      "longitude": "-86.8047",
+      "overview": "Enjoy movie night in the Carolina's spacious second-story bonus room. Downstairs, the sprawling kitchen island overlooks the open great room and dining area. The private primary suite boasts dual sinks and walk-in closet.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/cc7376dae1c048c890aaaaad1b535dac?v=93a9e3e8",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/5c85c58d40634956be5170a2490c8c0a?v=39403cbd",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2e57dccaae5f45d9a86d74d18f1b6304?v=fcbd1d16"
+      ]
+    },
+    {
+      "address": "29335 Satilla Circle Madison, AL 35756",
+      "name": "29335 Satilla Circle Madison, AL",
+      "plan": "Northbrook",
+      "id": "7",
+      "price": "$430,150",
+      "beds": "4bd",
+      "baths": "3ba",
+      "sqft": "2,412 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/9e8de6db38f04ddd971c078133d2ceb9?v=e0a896d0",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/northbrook-s464/29335-satilla-circle",
+      "latitude": "34.67372",
+      "longitude": "-86.80619",
+      "overview": "Create an office or rec room in the Northbrook's upstairs bonus room. On the main level, the kitchen is the heart of the open-concept living space. Tray ceilings and a large walk-in closet complement the primary suite.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/60778a7b1b9e4ff8b836f3f31f6cace2?v=25af6493",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e6b34b25baec4210a401caf717bbb114?v=bbca5108",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/f74c88312a024de69acb319b881f0afb?v=967add49",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/ccd8303f4c184ab2a4f88e0d4ecfd3d3?v=82ec1706",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/dcc7ac89574c467f91154fad49fe341a?v=5e53b500",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/8fb7760c0a7046e9ba859efb3821cac3?v=b374f90e",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b1ae5094f39341fba45c489d225d467e?v=e7c1e344",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/612cc27ae6cc448f86fe57607e002b27?v=70c81261",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/a8afe526c54b439a8a013d913f565a0a?v=3e7b0146",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/53bbc84128924077aca2bf7a6e0f56eb?v=46350049",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1cc856120d7a4b71a331f7dc1b35933f?v=b3fc4c04",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/80f0be06a54749baa95738f9aa15a000?v=26d06e14"
+      ]
+    },
+    {
+      "address": "29267 Satilla Circle Madison, AL 35756",
+      "name": "29267 Satilla Circle Madison, AL",
+      "plan": "Northbrook",
+      "id": "8",
+      "price": "$359,990",
+      "beds": "4bd",
+      "baths": "3ba",
+      "sqft": "2,412 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/2165431d1f8f4e568bbd6a98cdb75176?v=62782d0a",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/northbrook-s464/29267-satilla-circle",
+      "latitude": "34.672464",
+      "longitude": "-86.8053",
+      "overview": "Create an office or rec room in the Northbrook's upstairs bonus room. On the main level, the kitchen is the heart of the open-concept living space. Dual sinks and a large walk-in closet complement the primary suite.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/60778a7b1b9e4ff8b836f3f31f6cace2?v=25af6493",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e6b34b25baec4210a401caf717bbb114?v=bbca5108",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/f74c88312a024de69acb319b881f0afb?v=967add49",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/ccd8303f4c184ab2a4f88e0d4ecfd3d3?v=82ec1706",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/dcc7ac89574c467f91154fad49fe341a?v=5e53b500",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/8fb7760c0a7046e9ba859efb3821cac3?v=b374f90e",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b1ae5094f39341fba45c489d225d467e?v=e7c1e344",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/612cc27ae6cc448f86fe57607e002b27?v=70c81261",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/a8afe526c54b439a8a013d913f565a0a?v=3e7b0146",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/53bbc84128924077aca2bf7a6e0f56eb?v=46350049",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/1cc856120d7a4b71a331f7dc1b35933f?v=b3fc4c04",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/80f0be06a54749baa95738f9aa15a000?v=26d06e14"
+      ]
+    },
+    {
+      "address": "29340 Satilla Circle Madison, AL 35756",
+      "name": "29340 Satilla Circle Madison, AL",
+      "plan": "Dakota",
+      "id": "9",
+      "price": "$374,990",
+      "beds": "4bd",
+      "baths": "2ba",
+      "sqft": "2,479 ft²",
+      "status": "Available",
+      "image_url": "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/cb3c11c59713465888d7c41a1ecf79e5?v=7c8e40c0",
+      "url": "https://www.meritagehomes.com/state/al/huntsville/madison-preserve-the-estate-series/dakota-s450/29340-satilla-circle",
+      "latitude": "34.673074",
+      "longitude": "-86.80582",
+      "overview": "Outfit the Dakota's main-level flex space as a home office and skip your commute. In the kitchen, the island overlooks the open living space. Upstairs, the loft separates the secondary bedrooms from the primary suite.",
+      "images": [
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/da7994df0f2c4b84855699a3c9101d83?v=83da3a6b",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/a1d6caefc84044608c009aa5dedf574c?v=e6ae839c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/e5794c10ff194a24b1d8bee393d662f5?v=3b831492",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/580b1a1af9ab44b8be305510ea09d6b8?v=6c467892",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/09a934be124b4d4092907bb63585c774?v=bcd90805",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/4e9ae401d32a45bfb3ecf2a15af53978?v=163212c1",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7b36a00628fe4e7d843d516114b7ae5f?v=9de3c564",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/7ebd94ee820c4ca397f47f025f9e70ce?v=8ddde0d4",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/daf3c40287bf4770a8cf5c8b166e909c?v=7f3c2e3c",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/8b701072fc264330aa65e1eec94b081a?v=13ac5098",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/b1e9cca0d8b646eb81d95b20acae30cc?v=cb497a29",
+        "https://mhc-p-001.sitecorecontenthub.cloud/api/public/content/a6ea7e5be9124036a788a4ad164546fe?v=2a21ea69"
+      ]
+    }
+  ],
+  "nearbyplaces": [
+    {
+      "name": "Tanner Elementary",
+      "category": "Elementary",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Tanner High School",
+      "category": "Elementary",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Connors Steak & Seafood",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Mozza Pizza",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Big Whiskey's American Restaurant & Bar",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Grimaldi's",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Al Shish Palace Mediterranean Cuisine",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Wayback Burgers",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Hickory House",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Ol Heidelberg Cafe",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Blue Plate Cafe",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Capriotti's Sandwhich Shop",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Mangia Italian Restaurant",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Good Company Cafe",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "City Cafe Diner",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "The Sage Grille",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Hound and Harvest",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Metro Diner",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "The Standard Social Market",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Shaggy's Burgers and Tacos",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Big Spring Cafe",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Little Rosie's Taqueria",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Greenbrier Restaurant",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Monte State Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Big Spring International Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Homestead Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Jones Farm Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Mayfair Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Palmer Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Kent Robertson Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Buchanan Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Brahan Spring Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "McGucken Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Legacy Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Dublin Park",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "U.S Space & Rocket Center",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "EarlyWorks Children's Museum",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Huntsville Museum of Art",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Burningtree Country Club",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Southern Gayles Golf Club & Grill",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Colonial Golf Club",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Sunset Landing",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "RTJ Golf Trail at Hampton Cove",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "The Ledges",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Huntsville Country Club",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Madison Golf Center",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Valley Hill Country Club",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Links at Redstone",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Huntsville Botanical Garden",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Top Golf",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Bridge Street Town Centre",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Parkway Place",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Valley Bend",
+      "category": "Restaurant",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "I-65",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "I-565",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Huntsville Int'l",
+      "category": "Freeways",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "collections": []
+}

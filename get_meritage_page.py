@@ -61,6 +61,18 @@ def extract_sqft(text):
     sqft_match = re.search(r'([\d,]+)\s*sq\s*ft', text.lower())
     return sqft_match.group(1).replace(',', '') if sqft_match else None
 
+def extract_article_content(soup):
+    """Extract text content from p tags under article with specific class"""
+    article_content = []
+    article = soup.find('article', attrs={'class': 'small-12 medium-10 large-8 column text-center'})
+    if article:
+        for p in article.find_all('p'):
+            text = p.text.strip()
+            if text:  # Only add non-empty text
+                article_content.append(text)
+        logger.info(f"Found {len(article_content)} paragraphs in article")
+    return article_content[0]
+
 def fetch_page(url, output_dir='data/meritagehomes'):
     """Fetch and parse page data"""
     driver = None
@@ -97,7 +109,7 @@ def fetch_page(url, output_dir='data/meritagehomes'):
             "price_from": None,
             "address": None,
             "phone": None,
-            "description": None,
+            "description": extract_article_content(soup),
             "images": [],
             "location": {
                 "latitude": None,
@@ -149,9 +161,6 @@ def fetch_page(url, output_dir='data/meritagehomes'):
 
         # Extract description
         meta_desc = soup.find('meta', attrs={'name': 'description'})
-        if meta_desc:
-            data["description"] = meta_desc.get('content', '').strip()
-            logger.info("Found description from meta tag")
 
         # Extract first image
         slides = soup.find_all('li', class_='slick-slide orbit-slide')
